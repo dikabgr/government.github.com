@@ -6,21 +6,164 @@ Australia:
   - csiro-workspace
   - csiro-wsn
 
+Austria:
+  - TUW-GEO
+
+Brazil:
+  - ufrgs
+
+Canada:
+  - federal-geospatial-platform
+  - Western-OC2-Lab
+
+China:
+  - Anhui-Medical-University
+  - arclab-hku
+  - BIMK
+  - bistu
+  - BIT-DA
+  - BIT-ENGD
+  - dbiir
+  - FudanNLP
+  - HITSZ-HLT
+  - HKBU-HPML
+  - hku-mars
+  - HPSCIL
+  - i2Nav-WHU
+  - MAI-Lab-West-China-Hospital
+  - NLP2CT
+  - PKU-DAIR
+  - PKUHPC
+  - ritju
+  - SNNU-CS
+  - SUSTech-AMASLAB
+  - sysuits
+  - THUDM
+  - thuml
+  - TJ-CSCCG
+  - tuna
+  - XSLiuLab
+  - ZJU-DAILY
+  - ZJU-FAST-Lab
+  - zju-vipa
+  - zju3dv
+  - ZJULearning
+  - zjunlp
+  - ZJUSCT
+
+Czech Republic:
+  - CTU-IIG
+  - techlib
+
+Denmark:
+  - DeiC-HPC
+  - DTUSoftware
+
+European Union:
+  - ec-jrc
+  - ecmwf
+  - ESA
+  - EU-ECDC
+  - Lumi-supercomputer
+
+Finland:
+  - Helsinki-NLP
+
 France:
   - ifsttar
   - INRIA
   - luli
 
 Germany:
+  - 3dgeo-heidelberg
+  - automl
+  - AWI-ESM
+  - BAMresearch
+  - bauhaus
+  - baw-de
+  - cgre-aachen
+  - charite
+  - cispa
+  - ComNets-Bremen
+  - CompVis
+  - dainst
+  - deutsche-nationalbibliothek
+  - DeutscherWetterdienst
+  - DLR-SC
+  - eisenforschung
+  - ekut-es
+  - ExplainableML
+  - fkie
+  - Fraunhofer-AISEC
+  - fraunhofer-iais
+  - Fraunhofer-IIS
+  - Fraunhofer-IMS
+  - Fraunhofer-SCAI
+  - fraunhoferfokus
+  - fraunhoferhhi
+  - FraunhoferIOSB
+  - FraunhoferISST
+  - FZJ-IEK3-VSA
+  - FZJ-INM1-BDA
+  - FZJ-JSC
+  - GFZ
+  - ghga-de
+  - hegl-lab
+  - Heidelberg-NLP
+  - hmgu-itg
+  - hzdr
+  - hzi-braunschweig
+  - iame-uni-bonn
+  - ika-rwth-aachen
+  - ipa320
+  - itcr-uni-luebeck
+  - leibniz-future-lab
+  - Leibniz-IWT
   - maxplanck-ie
+  - MIC-DKFZ
   - MPDL
   - MPI-IS
   - MPIB
+  - mpilhlt
   - mppmu
+  - neurodial
+  - Rostlab
+  - RWTH-EBC
+  - subugoe
+  - tibhannover
+  - tml-tuebingen
+  - TU-Berlin
+  - tu-darmstadt-ros-pkg
+  - tum-gis
+  - UB-Heidelberg
+  - uds-psl
+  - Uni-Heidelberg
+  - vislearn
+  - VLSI-EDA
+  - WZBSocialScienceCenter
+  - x3dom
+
+Greece:
+  - ntua
+
+India:
+  - marsiitr
+  - SDC-GCOEJ
 
 International:
   - CERN
+  - cerndb
   - CICE-Consortium
+  - IPCC-WG1
+  - root-project
+  - swan-cern
+
+Iraq:
+  - ditkrg
+
+Italy:
+  - consiglionazionaledellericerche
+  - polimi-ispl
 
 Kenya:
   - Multimedia-University-of-Kenya
@@ -31,16 +174,78 @@ New Zealand Crown Research Institutes:
   - niwa
   - PlantandFoodResearch
   - ScionResearch
+  - waikato-datamining
+
+Nigeria:
+  - ISTH-BNITM-PHE
+
+Pakistan:
+  - university-of-turbat
+
+Philippines:
+  - InternationalRiceResearchInstitute
+
+Poland:
+  - gmum
+
+Portugal:
+  - fraunhoferportugal
+
+Russia:
+  - mirea-ninja
+
+Saudi Arabia:
+  - uqu-cis-cs
+
+Singapore:
+  - buds-lab
+
+South Korea:
+  - eGovFramework
+
+Spain:
+  - compsciencelab
 
 Sweden:
+  - ENCCS
+  - NBISweden
   - smarc-project
 
-U.K Research Centers:
+Switzerland:
+  - eth-cscs
+  - MeteoSwiss
+  - sogis
+  - swiss-seismological-service
+  - SwissDataScienceCenter
+  - SwissTPH
+
+Taiwan:
+  - TW-NCHC
+
+Turkey:
+  - CankayaUniversity
+  - EuroCC-Turkey
+
+U.K:
+  - alan-turing-institute
+  - antarctica
+  - ARCHER2-HPC
+  - best-practice-and-impact
+  - BritishMuseum
+  - BritishMuseumDH
+  - GSTT-CSC
+  - ONSBigData
   - SatelliteApplicationsCatapult
 
 U.S. Research Labs:
   - ACME-Climate
+  - ai2es
+  - Argonne-National-Laboratory
   - ARM-DOE
+  - Berkeley-Data
+  - berkeley-physics
+  - berkeley-scf
+  - berkeleybop
   - BrookhavenNationalLaboratory
   - CASL
   - CBIIT
@@ -49,14 +254,19 @@ U.S. Research Labs:
   - cocomans
   - ControlSystemStudio
   - cooperhewitt
+  - dlab-berkeley
   - doe-nepa
   - draperlaboratory
+  - DSSA-Stockton-University
   - EarthSystemCoG
   - EMSL-MSC
   - epicsdeb
   - esgf
+  - EVS-ATMOS
   - exmatex
   - flux-framework
+  - gatech
+  - georgia-tech-db
   - globus
   - glvis
   - HipGISAXS
@@ -64,11 +274,13 @@ U.S. Research Labs:
   - hpde
   - idaholab
   - jbei
+  - JeffersonLab
   - JGI-Bioinformatics
   - JHUAPL
   - jplopensource
   - kbase
   - kbaseIncubator
+  - lab11
   - LANL
   - LANL-Bioinformatics
   - lbl-anp
@@ -77,6 +289,7 @@ U.S. Research Labs:
   - libmesh
   - llnl
   - losalamos
+  - lsst-ts
   - magellancloud
   - materialsproject
   - MCSclimate
@@ -89,14 +302,16 @@ U.S. Research Labs:
   - nasajpl
   - ncats
   - ncbi
-  - ncgmp09
   - ncip
   - ncpp
+  - ncsa
+  - NCSAGravity
   - ndar
   - nersc
   - nhlbi
   - niaid
   - NIAID-RTB
+  - NIEHS
   - nih-fmrif
   - NIHGOV
   - Nikea
@@ -105,8 +320,10 @@ U.S. Research Labs:
   - nist-emntg
   - nist-ionstorage
   - NIST-ISG
+  - NOAAGov
   - nrel
   - nrel-cookbooks
+  - nsf-open
   - NSLS-II
   - NSLS-II-CSX
   - nsls2ap
@@ -134,9 +351,15 @@ U.S. Research Labs:
   - smithsonian
   - SNEWS-Collaboration
   - SNL-WaterPower
+  - spacetelescope
   - swift-lang
+  - thepanlab
   - TinyTitan
   - TriBITSPub
+  - ucla-mobility
+  - UCLA-Plasma-Simulation-Group
+  - UCLA-VAST
+  - UCLA-VMG
   - usnistgov
   - WISDEM
   - zfsonlinux

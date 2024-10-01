@@ -13,7 +13,6 @@ Australia:
   - actgov
   - agnsw
   - AtlasOfLivingAustralia
-  - atogov
   - ausdto
   - australianantarcticdatacentre
   - AustralianAntarcticDivision
@@ -35,22 +34,23 @@ Australia:
   - govau
   - govcms
   - gs-dawr
+  - healthgovau
   - Healthway
   - hiscom
   - innovationgovau
   - IPAustralia
   - Landgate
-  - mcma
   - nla
   - NSW-eTendering
   - NSWPlanning
   - pmcau
+  - PublicRecordOfficeVictoria
   - qld-gov-au
   - srnsw
-  - SSCwebdev
   - SunshineCoastCouncil
   - treasury-aus
   - victoriangovernment
+  - wagov
   - wamuseum
 
 Austria:
@@ -61,6 +61,7 @@ Belgium:
   - CIRB
   - Fedict
   - inbo
+  - NationalBankBelgium
   - onroerenderfgoed
   - StadGent
 
@@ -93,11 +94,13 @@ Brazil:
   - pensandoodireito
   - plonegovbr
   - pr-snas
+  - prefeitura-rio
   - prefeiturasp
   - PROCERGS
   - prodest
   - secom-tocantins
   - secultce
+  - sepinf-inc
   - servicosgovbr
   - tcers
   - tisorocaba
@@ -107,6 +110,9 @@ Brazil:
 Bulgaria:
   - govbg
   - governmentbg
+
+Cambodia:
+  - e-Government-Cambodia
 
 Canada:
   - AAFC-MBB
@@ -124,12 +130,11 @@ Canada:
   - CityofToronto
   - cityssm
   - cngo
-  - CommunicationSecurityEstablishment
   - csbp-cpse
+  - cse-cst
   - CSPS-EFPC-DAAN
   - CybercentreCanada
   - ECCC-MSC
-  - electionsquebec
   - eodms-sgdot
   - esdc-devx
   - esdc-edsc
@@ -140,6 +145,7 @@ Canada:
   - gctools-outilsgc
   - GeoCanViz
   - GNWT
+  - GovAlta
   - infra-geo-ouverte
   - justicecanada
   - LMID-DIMT
@@ -153,6 +159,7 @@ Canada:
   - open-data
   - phac-aspc
   - phac-nml
+  - PHACDataHub
   - pspc-spac
   - PSPC-SPAC-buyandsell
   - RAMP-PCAR
@@ -164,9 +171,13 @@ Canada:
   - veteransaffairscanada
   - VilledeMontreal
   - wet-boew
+  - ytgov
 
 Chile:
   - e-gob
+
+China:
+  - CPPUer
 
 Colombia:
   - AltaConsejeriaTIC
@@ -175,11 +186,14 @@ Colombia:
 
 Czech Republic:
   - MinistryOfJusticeCZ
+  - NLCR
   - opendata-mvcr
 
 Denmark:
+  - kb-dk
   - Kortforsyningen
   - NationalMuseumofDenmark
+  - Notalib
   - skat
   - ssi-dk
   - StatensMuseumforKunst
@@ -198,13 +212,20 @@ Estonia:
   - MKM-ITAO
   - open-eid
   - opendata-ee
-  - vvk-ehk
 
 Ethiopia:
   - ethiopian
 
 European Union:
+  - digital-services-act
+  - ec-europa
+  - eea
+  - eu-digital-green-certificates
+  - eu-digital-identity-wallet
+  - europarl
+  - european-central-bank
   - europeana
+  - openeuropa
 
 Finland:
   - 6Aika
@@ -221,14 +242,17 @@ Finland:
   - NatLibFi
   - nlsfi
   - opetushallitus
+  - sykefi
   - vrk-kpa
 
 France:
   - afimb
   - AlsaceDigitale
   - AmbaNum
+  - ansforge
   - ANSSI-FR
   - ApieFrance
+  - atih
   - betagouv
   - BRGM
   - cea-hpc
@@ -273,10 +297,12 @@ French Polynesia:
 
 Germany:
   - Basisvisualisierung
+  - BSI-Bund
   - buehl
   - CERT-Bund
   - corona-warn-app
   - dbmdz
+  - Digitaler-Impfnachweis
   - digitalservicebund
   - gbv
   - GovDataOfficial
@@ -286,8 +312,11 @@ Germany:
   - kdn-nrw
   - kreis-viersen
   - lobid
+  - OpenBfS
   - OpenNRW
   - regional-digital
+  - robert-koch-institut
+  - rostock
   - stadt-bielefeld
   - stadt-karlsruhe
   - StadtBruchsal
@@ -306,9 +335,12 @@ India:
   - DataPortalIndia
   - ISRO
   - itschool
+  - npci
 
 Indonesia:
+  - bolsel
   - jabardigitalservice
+  - pemkab-rembang
 
 International:
   - EL-BID
@@ -316,8 +348,8 @@ International:
   - ogpl
 
 Ireland:
-  - FSAIreland
   - HSEIreland
+  - ogcio
 
 Isle of Man:
   - Isle-Of-Man-Government
@@ -355,15 +387,20 @@ Latvia:
   - CSBLatvia
 
 Lithuania:
+  - AplinkosMinisterija
+  - govlt
+  - ivpk
+  - KeliaukLietuvoje
+  - Nacionaline-sporto-agentura
   - viesujupirkimutarnyba
   - vilnius
+  - VMVT-DevHub
 
 Luxemburg:
+  - circl
   - Geoportail-Luxembourg
+  - natliblux
   - opendatalu
-
-Madagascar:
-  - e-Gouvernance-Madagascar
 
 Malaysia:
   - pmo2
@@ -381,6 +418,28 @@ Mexico:
   - profeco
   - redoaxacadetodos
 
+Netherlands:
+  - Amsterdam
+  - dataoverheid
+  - GemeenteAlmelo
+  - GemeenteEde
+  - gemeentemuseum
+  - Geonovum
+  - Haarlem
+  - IenS-Velsen
+  - KBNLresearch
+  - Logius-standaarden
+  - MinBZK
+  - MinELenI
+  - minvws
+  - Pleio
+  - politie
+  - provinciegroningen
+  - provincieNH
+  - StichtingHergebruikOverheid
+  - TweedeKamer
+  - zaanstad
+
 New Zealand:
   - CanterburyRegionalCouncil
   - data-govt-nz
@@ -391,40 +450,42 @@ New Zealand:
   - linz
   - localgovernment
   - MfE-NZ
-  - nz-mbie
   - nz-social-investment-agency
   - opcnz
-  - R9BetterAPIs
   - te-papa
 
 Norway:
   - altinn
   - bergenkommune
   - brreg
+  - danskernesdigitalebibliotek
   - difi
   - digibib
   - DirektoratetForByggkvalitet
   - dsb-norge
   - dss-web
-  - fylkesmannen
   - kartverket
   - knreise
   - KRD-KOMM-VL
   - metno
+  - miljodir
   - nasjonalmuseet
   - navikt
   - nlbdev
+  - Nordland-fylkeskommune
+  - politiet
   - Riksrevisjonen
   - Rogaland
   - rutebanken
   - ruterno
   - Skatteetaten
   - StatensPensjonskasse
+  - statisticsnorway
   - telemark
   - telemark-arkiv
+  - Tolletaten
   - uninett
   - vegvesen
-  - vest-agder
 
 Panama:
   - IFARHU
@@ -438,6 +499,7 @@ Peru:
   - imarpe
 
 Philippines:
+  - corcueraromblon
   - govph
   - igovphil
   - Laoag-City
@@ -454,12 +516,12 @@ Republic of Korea:
   - molit-korea
 
 Romania:
-  - gov-ithub
   - govro
   - MinistryOfLabor
 
 Russia:
   - cikrf
+  - ghalghai
   - kznru
   - moscow-technologies
 
@@ -469,7 +531,6 @@ Saudi Arabia:
 Singapore:
   - dsaidgovsg
   - govtechsg
-  - govtechsiot
   - moexmen
   - opengovsg
 
@@ -491,14 +552,13 @@ Spain:
   - AjuntamentdeSantCugat
   - AjuntamentdeTerrassa
   - AyuntamientoMadrid
-  - castilla-lamancha
   - ctt-gob-es
-  - diputacioBCN
   - ErabakiPamplona
   - gencat
   - GobiernoLaRioja
   - HospitaletDeLlobregat
   - icane
+  - lliurex
   - projectestac
   - vilanovailageltru
 
@@ -552,14 +612,17 @@ Sweden:
 Switzerland:
   - admin-ch
   - alv-ch
-  - alv-ch-ansible-roles
   - BFS-SHS-MSAS
   - dsi-vd
   - FNSKtZH
   - geoadmin
   - gisktzh
+  - kanton-aargau
   - kanton-bern
+  - metas-ch
   - ogdch
+  - ogdtg
+  - opendatabs
   - opendatazurich
   - openZH
   - SFOE
@@ -568,31 +631,22 @@ Switzerland:
   - statistikZH
   - VerkehrsbetriebeZuerich
 
-The Netherlands:
-  - Amsterdam
-  - dataoverheid
-  - GemeenteAlmelo
-  - GemeenteEde
-  - gemeentemuseum
-  - Geonovum
-  - Haarlem
-  - IenS-Velsen
-  - MinBZK
-  - MinELenI
-  - minvws
-  - Pleio
-  - provinciegroningen
-  - provincieNH
-  - StichtingHergebruikOverheid
-  - TweedeKamer
-  - zaanstad
+Taiwan:
+  - moda-gov-tw
+  - pdis
+  - taipeicity
+
+Thailand:
+  - DGA-Thailand
 
 U.K. Central:
   - 111online
+  - acteng
   - alphagov
   - BEACmodel
   - britishlibrary
   - cabinetoffice
+  - CDPS-Wales
   - CJSCommonPlatform
   - co-cddo
   - communitiesuk
@@ -613,9 +667,14 @@ U.K. Central:
   - GCHQ
   - gds-dead
   - gds-operations
+  - govuk-one-login
   - guidance-guarantee-programme
   - hmcts
+  - HMPO
   - hmrc
+  - HO-CTO
+  - houseofcommonslibrary
+  - i-dot-ai
   - informatics-lab
   - insolvencyservice
   - intellectual-property-office
@@ -627,6 +686,7 @@ U.K. Central:
   - landregistry-ops
   - lgss
   - LocalGovDigital
+  - MarineScotlandScience
   - MetOffice
   - MetOfficeSpaceApps
   - metomi
@@ -636,28 +696,34 @@ U.K. Central:
   - naouk
   - nationalarchives
   - NationalCrimeAgency
+  - NationalLibraryOfScotland
   - nhsconnect
   - nhsdigital
   - nhsengland
   - nhsuk
   - NHSX
+  - nice-digital
   - nihp-public
   - OfqualGovUK
   - ONSdigital
   - openregister
+  - OrdnanceSurvey
   - osgeouk
   - scottishgovernment
   - SkillsFundingAgency
+  - tanc-ahrc
   - ukforeignoffice
   - ukgovdatascience
   - UKGovernmentBEIS
   - UKHomeOffice
+  - UKHomeOfficeForms
   - UKLocation
   - ukncsc
+  - ukparliament
+  - uktrade
   - ukwa
 
 U.K. Councils:
-  - BarnsleyCouncil
   - BathnesDevelopment
   - BracknellForestCouncil
   - brighton-hove-gov-uk
@@ -666,6 +732,7 @@ U.K. Councils:
   - cityofyork
   - devoncc
   - DevonCountyCouncil
+  - Dorset-Council-UK
   - DundeeCityCouncil
   - east-sussex-county-council
   - edinburghcouncil
@@ -681,6 +748,7 @@ U.K. Councils:
   - openglasgow
   - RotherDC
   - RoyalBoroughKingston
+  - smbc-digital
   - surreydigitalservices
   - thehighlandcouncil
   - TraffordCouncil
@@ -707,7 +775,7 @@ U.S. City:
   - cityofboulder
   - cityofburlington
   - cityofchattanooga
-  - cityoffortworth
+  - CityOfDetroit
   - CityOfLosAngeles
   - cityofnewyork
   - CityOfPhiladelphia
@@ -734,12 +802,16 @@ U.S. City:
   - lfucg
   - longbeachinnovationteam
   - LouisvilleMetro
+  - louisvillemetro-innovation
   - mnhrc
+  - mnylc
   - moda-nyc
   - monum
+  - NewYorkCityCouncil
   - NYCComptroller
   - nycdot
   - NYCPlanning
+  - onc-healthit
   - OpenGovDC
   - p2g
   - pdxgis
@@ -757,6 +829,7 @@ U.S. County:
   - anoka-script-team
   - ArlingtonCounty
   - baltimorecounty
+  - BayAreaMetro
   - bouldercounty
   - CanyonCounty
   - CarverCounty
@@ -767,11 +840,9 @@ U.S. County:
   - HennepinCountyPublicDefender
   - LACMTA
   - MCLD
-  - miamidade
   - pottcountyit
   - saccounty
   - sfcta
-  - SJCGIS
   - slugis
 
 U.S. Federal:
@@ -789,6 +860,7 @@ U.S. Federal:
   - ccmc
   - CDCgov
   - cfpb
+  - cigiegov
   - cisagov
   - cloud-gov
   - cmsgov
@@ -805,6 +877,7 @@ U.S. Federal:
   - energyapps
   - erdc
   - eregs
+  - FAA-Aviation-Data-Portal
   - fcc
   - fda
   - fecgov
@@ -855,6 +928,7 @@ U.S. Federal:
   - NIEM
   - NMB-Dev
   - NMML
+  - NOAA-EPIC
   - noaa-gfdl
   - NOAA-ORR-ERD
   - noaa-pmel
@@ -911,13 +985,11 @@ U.S. Federal:
   - usgpo
   - usgs
   - USGS-Astrogeology
-  - USGS-CIDA
   - usgs-cmg
   - usgs-eros
   - USGS-OWI
   - USGS-R
   - USGS-WiM
-  - usindianaffairs
   - usnationalarchives
   - usopm
   - USPS
@@ -929,6 +1001,7 @@ U.S. Federal:
   - VHAINNOVATIONS
   - virtual-world-framework
   - visionworkbench
+  - weather-gov
   - WFMRDA
   - whitehouse
   - XDgov
@@ -939,8 +1012,8 @@ U.S. Local Law Enforcement:
 U.S. Military and Intelligence:
   - afseo
   - CRREL
-  - defense-cyber-crime-center
   - deptofdefense
+  - dod-cyber-crime-center
   - erdc-itl
   - iadgov
   - info-sharing-environment
@@ -949,7 +1022,6 @@ U.S. Military and Intelligence:
   - nsacyber
   - project-interoperability
   - psns-imf
-  - screamlab
   - shareandprotect
   - SIMP
   - transcom
@@ -963,17 +1035,19 @@ U.S. Special District:
   - cleveland-metroparks
   - CMAP-REPOS
   - commonwealth-of-puerto-rico
+  - MAPC
   - Metropolitan-Council
   - portofsandiego
   - psrc
 
 U.S. States:
   - agrc
-  - AlaskaDHSS
+  - akhealth
   - azgs
-  - calsimcallite
+  - cagov
   - CAWaterBoardDataCenter
   - ccap
+  - CentralValleyModeling
   - coloradodemography
   - CTOpenData
   - DCGovWeb
@@ -983,12 +1057,13 @@ U.S. States:
   - gocodecolorado
   - IDAHO-DOC-NCOMS
   - idahofishgame
+  - judicialcouncilcalifornia
   - la-ots
   - LADCO
   - LibraryofVA
   - massgov
+  - MESMD
   - MFWP-GIS
-  - mn-script-team
   - nebraskamap
   - nelegislature
   - NJOGIS
@@ -1010,7 +1085,6 @@ U.S. States:
   - twdb
   - TxDOT
   - UtahForestryFireStateLands
-  - VDEQ
   - VDGIF
   - Virginia-Department-of-Health
   - Virginia-House-of-Delegates
@@ -1022,14 +1096,18 @@ U.S. States:
 
 U.S. Tribal Nations:
   - coquille-indian-tribe
+  - MSBandofChoctawIndians
   - osage-nation
 
 Ukraine:
   - openprocurement
 
 United Nations:
+  - GFDRR
   - OCHA-DAP
+  - UN-ICC
   - UN-OCHA
+  - uncefact
   - undp
   - unesco
   - UNGlobalPlatform
@@ -1038,9 +1116,7 @@ United Nations:
   - UNStats
   - worldbank
   - WorldBank-Transport
-
-Uruguay:
-  - gubuy
+  - WorldHealthOrganization
 
 Venezuela:
   - CanaimaGNULinux
